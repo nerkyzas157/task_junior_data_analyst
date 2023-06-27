@@ -1,7 +1,7 @@
 # Task for the candidates to the junior data analyst position
 
 
-This repository contains a sample dataset and task description for the candidates to the Junio Data Analyst position in Inspired UM. 
+This repository contains a sample dataset and the task description for the candidates to the Junio Data Analyst position in Inspired UM. 
 
 The aim of the task is to carry out exploratory data analysis of the provided dataset and to present results as Jupyter notebook. 
 
