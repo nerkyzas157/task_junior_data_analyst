@@ -1,10 +1,12 @@
-# About Dataset
+# Task for the candidates to the junior data analyst position
 
-## Bank Marketing
 
-## Abstract:
+This repository contains a sample dataset and task description for the candidates to the Junio Data Analyst position in Inspired UM. 
 
-The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. 
+The aim of the task is to carry out exploratory data analysis of the provided dataset and to present results as Jupyter notebook. 
+
+The full task description can be found in [Task.md](Task.md) file. 
+
 
 ## Data Set Information:
 
