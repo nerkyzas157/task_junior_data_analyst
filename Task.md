@@ -21,5 +21,5 @@ Consider if there is a way to compare the influence of different factors vis-a-v
 * Do required data transformations (string to numeric, etc.);
 * Do simple analysis: plots, cross-tabs, pivots to explore the data;
 * If needed, employ inferential statistics (correlations, linear-models, etc.);
-* Present the results in the Jupyter Notebook with relavant comments. 
+* Present the results in the Jupyter Notebook with relevant comments. 
 * Send the completed task to lukas.pukelis@inspired.lt
